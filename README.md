@@ -17,7 +17,7 @@ This is a simple web application built with React and Flask that generates rando
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/random-quote-generator.git`
+1. Clone the repository: `git clone https://github.com/Mohamed-Aziz-Zammal/random-quote-generator.git`
 2. Navigate to the project directory: `cd random-quote-generator`
 3. Install dependencies: `npm install`
 4. Start the frontend server: `npm start`
